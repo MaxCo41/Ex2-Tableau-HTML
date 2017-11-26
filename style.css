@@ -1,0 +1,23 @@
+table, td, th {
+border: 2px solid black;
+width: 0 auto;
+border-collapse: collapse;
+position: relative;
+}
+table {
+text-align: center;
+left: 200px;
+top: 225px;
+}
+
+.fille  {
+  border: 1px purple solid;
+  color: purple;
+}
+.garçon {
+  border: 1px green solid;
+  color: green;
+}
+.gris {
+  background-color: rgba(255, 0, 0, 0.5);
+}
